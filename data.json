@@ -23,13 +23,13 @@
         "type": "Feature",
         "properties": {
           "cases": 45,
-          "name": "Central_And_Western",
+          "name": "Central_And_Western"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.139035, 22.274839999999998],
-        },
-      },
+          "coordinates": [114.139035, 22.274839999999998]
+        }
+      }
     },
     {
       "name": "Wan_Chai",
@@ -37,13 +37,13 @@
         "type": "Feature",
         "properties": {
           "cases": 51,
-          "name": "Wan_Chai",
+          "name": "Wan_Chai"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.18516500000001, 22.273955],
-        },
-      },
+          "coordinates": [114.18516500000001, 22.273955]
+        }
+      }
     },
     {
       "name": "Eastern",
@@ -51,13 +51,13 @@
         "type": "Feature",
         "properties": {
           "cases": 35,
-          "name": "Eastern",
+          "name": "Eastern"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.22396499999999, 22.273004999999998],
-        },
-      },
+          "coordinates": [114.22396499999999, 22.273004999999998]
+        }
+      }
     },
     {
       "name": "Southern",
@@ -65,13 +65,13 @@
         "type": "Feature",
         "properties": {
           "cases": 11,
-          "name": "Southern",
+          "name": "Southern"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.20959, 22.23412],
-        },
-      },
+          "coordinates": [114.20959, 22.23412]
+        }
+      }
     },
     {
       "name": "Yau_Tsim_Mong",
@@ -79,13 +79,13 @@
         "type": "Feature",
         "properties": {
           "cases": 165,
-          "name": "Yau_Tsim_Mong",
+          "name": "Yau_Tsim_Mong"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.168185, 22.307415],
-        },
-      },
+          "coordinates": [114.168185, 22.307415]
+        }
+      }
     },
     {
       "name": "Sham_Shui_Po",
@@ -93,13 +93,13 @@
         "type": "Feature",
         "properties": {
           "cases": 84,
-          "name": "Sham_Shui_Po",
+          "name": "Sham_Shui_Po"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.15359000000001, 22.331184999999998],
-        },
-      },
+          "coordinates": [114.15359000000001, 22.331184999999998]
+        }
+      }
     },
     {
       "name": "Kowloon_City",
@@ -107,13 +107,13 @@
         "type": "Feature",
         "properties": {
           "cases": 145,
-          "name": "Kowloon_City",
+          "name": "Kowloon_City"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.19606, 22.321725],
-        },
-      },
+          "coordinates": [114.19606, 22.321725]
+        }
+      }
     },
     {
       "name": "Wong_Tai_Sin",
@@ -121,13 +121,13 @@
         "type": "Feature",
         "properties": {
           "cases": 231,
-          "name": "Wong_Tai_Sin",
+          "name": "Wong_Tai_Sin"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.201745, 22.34442],
-        },
-      },
+          "coordinates": [114.201745, 22.34442]
+        }
+      }
     },
     {
       "name": "Kwun_Tong",
@@ -135,13 +135,13 @@
         "type": "Feature",
         "properties": {
           "cases": 117,
-          "name": "Kwun_Tong",
+          "name": "Kwun_Tong"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.223645, 22.308625],
-        },
-      },
+          "coordinates": [114.223645, 22.308625]
+        }
+      }
     },
     {
       "name": "Tsuen_Wan",
@@ -149,13 +149,13 @@
         "type": "Feature",
         "properties": {
           "cases": 41,
-          "name": "Tsuen_Wan",
+          "name": "Tsuen_Wan"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.081885, 22.36504],
-        },
-      },
+          "coordinates": [114.081885, 22.36504]
+        }
+      }
     },
     {
       "name": "Tuen_Mun",
@@ -163,13 +163,13 @@
         "type": "Feature",
         "properties": {
           "cases": 93,
-          "name": "Tuen_Mun",
+          "name": "Tuen_Mun"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [113.966035, 22.378875],
-        },
-      },
+          "coordinates": [113.966035, 22.378875]
+        }
+      }
     },
     {
       "name": "Yuen_Long",
@@ -177,13 +177,13 @@
         "type": "Feature",
         "properties": {
           "cases": 43,
-          "name": "Yuen_Long",
+          "name": "Yuen_Long"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.001065, 22.457195],
-        },
-      },
+          "coordinates": [114.001065, 22.457195]
+        }
+      }
     },
     {
       "name": "North",
@@ -191,13 +191,13 @@
         "type": "Feature",
         "properties": {
           "cases": 52,
-          "name": "North",
+          "name": "North"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.207265, 22.517004999999997],
-        },
-      },
+          "coordinates": [114.207265, 22.517004999999997]
+        }
+      }
     },
     {
       "name": "Tai_Po",
@@ -205,13 +205,13 @@
         "type": "Feature",
         "properties": {
           "cases": 27,
-          "name": "Tai_Po",
+          "name": "Tai_Po"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.28399999999999, 22.480865],
-        },
-      },
+          "coordinates": [114.28399999999999, 22.480865]
+        }
+      }
     },
     {
       "name": "Sai_Kung",
@@ -219,13 +219,13 @@
         "type": "Feature",
         "properties": {
           "cases": 57,
-          "name": "Sai_Kung",
+          "name": "Sai_Kung"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.361795, 22.307344999999998],
-        },
-      },
+          "coordinates": [114.361795, 22.307344999999998]
+        }
+      }
     },
     {
       "name": "Sha_Tin",
@@ -233,13 +233,13 @@
         "type": "Feature",
         "properties": {
           "cases": 80,
-          "name": "Sha_Tin",
+          "name": "Sha_Tin"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.19787500000001, 22.391579999999998],
-        },
-      },
+          "coordinates": [114.19787500000001, 22.391579999999998]
+        }
+      }
     },
     {
       "name": "Kwai_Tsing",
@@ -247,13 +247,13 @@
         "type": "Feature",
         "properties": {
           "cases": 63,
-          "name": "Kwai_Tsing",
+          "name": "Kwai_Tsing"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.111195, 22.341],
-        },
-      },
+          "coordinates": [114.111195, 22.341]
+        }
+      }
     },
     {
       "name": "Islands",
@@ -261,14 +261,14 @@
         "type": "Feature",
         "properties": {
           "cases": 18,
-          "name": "Islands",
+          "name": "Islands"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [114.06324000000001, 22.230674999999998],
-        },
-      },
-    },
+          "coordinates": [114.06324000000001, 22.230674999999998]
+        }
+      }
+    }
   ],
   "buildings": [
     {
